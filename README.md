@@ -6,6 +6,8 @@
 
 Program otomasi berbasis Python untuk mengumpulkan dataset komentar dari YouTube secara cerdas. Dilengkapi dengan filter kualitas, dukungan pencarian berbasis kata kunci, dan integrasi otomatis langsung ke **Google Sheets**.
 
+![Screenshot Aplikasi](img/example.png)
+
 ---
 
 ## ✨ Fitur Unggulan
